@@ -24,7 +24,7 @@ Covers core financial analytics: Revenue, Margin, Budget Variance, Inventory Tur
 
 ## 📸 Screenshots
 - Executive Overview  
-  ![Executive Overview](assets/Screenshot 2025-08-24 182952.png)  
+  ![Executive Overview](assets/overview.png)  
 - Sales Trend  
   ![Sales Trend](assets/Screenshot 2025-08-24 183126.png)  
 - Product Mix  
