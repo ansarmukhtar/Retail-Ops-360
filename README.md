@@ -28,7 +28,7 @@ Covers core financial analytics: Revenue, Margin, Budget Variance, Inventory Tur
 - Sales Trend  
   ![Sales Trend](assets/sales.png)  
 - Product Mix  
-  ![Product Mix](assets/Screenshot 2025-08-24 183207.png)  
+  ![Product Mix](assets/perday.png)  
 
 ---
 
